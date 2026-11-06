@@ -50,7 +50,7 @@ It has to be a rate your monitor offers; Windows lists them under System, Displa
 - **What I could test.** A 240 Hz monitor on Windows 11, going between 60, 120 and 240. Higher rates take the same steps, but I can't try them here.
 - **Two games at once.** If another game with this mod is also open, the one you opened first puts the rate back when it closes, for both.
 - **When nothing can put it back.** If you end the helper by hand (rundll32 in Task Manager) and the game goes too, or the PC loses power, the rate stays until you change it in Windows. A restart brings your normal rate back.
-- **With HDR Switch.** It works beside HDR Switch ([Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/198154) and [Fallout 4](https://www.nexusmods.com/fallout4/mods/110988)) and they take turns, but neither needs the other.
+- **With HDR Switch** ([Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/198154), [Fallout 4](https://www.nexusmods.com/fallout4/mods/110988)). It works beside it and they take turns, but neither needs the other.
 - **Prefer an app?** AutoActions, a free Windows app, can do this per game too. This mod's point is that there's no separate app to run.
 - **Your mod manager may wait a moment.** The helper outlives the game by a second or so, so a manager can show the game as running for that long.
 - **A log if you need it.** `RefreshSwitch.log` in the script extender's folder under `Documents\My Games` says what it did on the last launch.
