@@ -1,0 +1,9 @@
+build/
+dist/
+.xmake/
+test-env/
+tools/test-env/
+tests/test-env/
+__pycache__/
+*.pyc
+.claude/
