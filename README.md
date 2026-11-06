@@ -94,6 +94,8 @@ Also on [my website](https://sayngwyn.com/projects).
 
 - **SKSE and F4SE teams** for the script extenders it loads through.
 
+Thanks to [OpenerUK](https://www.reddit.com/user/OpenerUK) on Reddit for the suggestion that started this mod.
+
 ---
 
 Made with AI. Claude contributed heavily under my direction: I decided what it does and checked it, and the AI wrote most of the code, its tests and these docs.
